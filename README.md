@@ -1,0 +1,2 @@
+# DiscordAccGen
+Generate Discord Accounts
