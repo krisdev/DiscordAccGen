@@ -1,0 +1,10 @@
+{
+  "name": "DiscordAccGen",
+  "version": "4.2.0",
+  "description": "Generates Discord Accounts",
+  "main": "index.js",
+  "repository": "https://github.com/krisdev/DiscordAccGen",
+  "author": "krisdev",
+  "license": "GPL",
+  "private": true
+}
