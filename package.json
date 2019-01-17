@@ -6,5 +6,8 @@
   "repository": "https://github.com/krisdev/DiscordAccGen",
   "author": "krisdev",
   "license": "GPL",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
 }
